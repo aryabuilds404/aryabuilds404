@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! I'm Arya 👋
 
-<!--
-**aryabuilds404/aryabuilds404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 BCA Student | Python Dev | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I'm on a mission to go from curious student → skilled tech professional.
+Currently building real projects, learning fast, and aiming for internships in 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Projects
+
+- 🌦️ **Weather Data Analysis** — Analyzing real climate data with Python & Pandas, building ML predictions + Streamlit dashboard
+- 💼 **Digital Portfolio** — Personal portfolio site built with HTML/CSS
+
+---
+
+### 📈 My Goals for 2025
+
+- ✅ Build 3 real projects
+- 🔄 Land a tech internship (remote or abroad)
+- 🔄 Get comfortable with Machine Learning
+- 🔄 Contribute to open source
+
+---
+*"The best time to start was yesterday. The next best time is now."* ⚡
